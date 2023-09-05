@@ -33,5 +33,6 @@ Explore the compiled information and stay informed about the latest cybersecurit
 ---
 
 ## Explore and Contribute:
-    Information Source: For a comprehensive overview of vulnerabilities, be sure to check out NVD (National Vulnerability Database), one of the most important sources for general vulnerability information.
+- **Information Source:** For a comprehensive overview of vulnerabilities, be sure to check out [NVD (National Vulnerability Database)](https://nvd.nist.gov/), one of the most important sources for general vulnerability information.
+
 You're invited to contribute to this project by adding new manufacturers, their security advisory links, or improving existing data. Together, we can make this repository an invaluable resource for the cybersecurity and IT community.
