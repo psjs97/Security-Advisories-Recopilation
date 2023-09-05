@@ -32,5 +32,6 @@ Explore the compiled information and stay informed about the latest cybersecurit
 
 ---
 
-## How to Contribute:
-Feel free to contribute to this repository by adding new manufacturers, links to their security advisories, or making corrections and updates to existing information. We appreciate your collaboration in making this repository a valuable resource for the cybersecurity and IT community.
+## Explore and Contribute:
+    Information Source: For a comprehensive overview of vulnerabilities, be sure to check out NVD (National Vulnerability Database), one of the most important sources for general vulnerability information.
+You're invited to contribute to this project by adding new manufacturers, their security advisory links, or improving existing data. Together, we can make this repository an invaluable resource for the cybersecurity and IT community.
