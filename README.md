@@ -11,6 +11,24 @@ Explore the compiled information and stay informed about the latest cybersecurit
 |Windows|https://msrc.microsoft.com/update-guide/vulnerability|
 |Apple|https://support.apple.com/en-us/HT201222| 
 |Android|https://source.android.com/docs/security/bulletin|
+|Linux|https://linuxsecurity.com/advisories|
+|Gitlab|https://advisories.gitlab.com/|
+|ForgeRock|https://backstage.forgerock.com/knowledge/kb/home/g46685661|
+|Fortinet|https://www.fortiguard.com/psirt|
+|Jenkins|https://www.jenkins.io/security/advisories/|
+|Zoom|https://explore.zoom.us/en/trust/security/security-bulletin/|
+|Citrix|https://support.citrix.com/knowledge-center/search/|
+|Aruba|https://www.arubanetworks.com/support-services/security-bulletins/|
+|Couchbase|https://www.couchbase.com/alerts/|
+|IBM|https://www.ibm.com/support/pages/bulletin/|
+|Juniper|https://supportportal.juniper.net/s/knowledge|
+|F5|https://my.f5.com/manage/s/new-updated-articles#sort=%40f5_updated_published_date%20descending&f:@f5_document_type=[Security%20Advisory]&periodFilter=0&dateField=0|
+|Cisco|https://tools.cisco.com/security/center/publicationListing.x|
+|Github|https://github.com/advisories|
+|Liferay|https://liferay.dev/portal/security/known-vulnerabilities|
+|Atlassian|https://www.atlassian.com/trust/security/advisories|
+|Sonatype|https://help.sonatype.com/repomanager3/product-information/release-notes/security-advisories|
+|RSA|https://community.rsa.com/t5/securid-advisories/ct-p/securid-access-advisories#security|
 
 ---
 
